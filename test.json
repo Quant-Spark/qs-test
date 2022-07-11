@@ -1,0 +1,58 @@
+[
+    {
+        "item_name": "blackberries",
+        "item_quantity": 2,
+        "item_unit_cost": 2,
+        "item_unit_weight": "200g",
+        "type": "fruit"
+    },
+    {
+        "item_name": "bananas",
+        "item_quantity": 6,
+        "item_unit_cost": 0.5,
+        "item_unit_weight": "90g",
+        "type": "fruit"
+    },
+    {
+        "item_name": "cake",
+        "item_quantity": 1,
+        "item_unit_cost": 5,
+        "item_unit_weight": "800g",
+        "type": "bakery"
+    },
+    {
+        "item_name": "cheese",
+        "item_quantity": 1,
+        "item_unit_cost": 4,
+        "item_unit_weight": "400g",
+        "type": "dairy"
+    },
+    {
+        "item_name": "milk",
+        "item_quantity": 4,
+        "item_unit_cost": 2,
+        "item_unit_weight": "200g",
+        "type": "dairy"
+    },
+    {
+        "item_name": "roll",
+        "item_quantity": 6,
+        "item_unit_cost": 0.2,
+        "item_unit_weight": "60g",
+        "type": "bakery"
+    },
+    {
+        "item_name": "butter",
+        "item_quantity": 4,
+        "item_unit_cost": 2,
+        "item_unit_weight": "200g",
+        "type": "dairy"
+    },
+    {
+        "item_name": "apples",
+        "item_quantity": 6,
+        "item_unit_cost": 0.4,
+        "item_unit_weight": "200g",
+        "type": "fruit"
+    }
+]
