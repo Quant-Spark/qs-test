@@ -96,5 +96,12 @@
         "item_unit_cost": 3,
         "item_unit_weight": "950g",
         "type": "frozen"
+    },
+    {
+        "id": "ab104c56-6d51-488c-a180-44d541a92762",
+        "item_name": "pizza",
+        "item_unit_cost": 3.5,
+        "item_unit_weight": "450g",
+        "type": "frozen"
     }
 ]
