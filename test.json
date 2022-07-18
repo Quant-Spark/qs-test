@@ -1,58 +1,79 @@
 [
     {
+        "id": "ae332a29-926f-4902-8041-1a74233994a3",
         "item_name": "blackberries",
-        "item_quantity": 2,
         "item_unit_cost": 2,
         "item_unit_weight": "200g",
         "type": "fruit"
     },
     {
+        "id": "4b3b6520-3aa9-43ed-a368-e7680d8d5b53",
         "item_name": "bananas",
-        "item_quantity": 6,
         "item_unit_cost": 0.5,
         "item_unit_weight": "90g",
         "type": "fruit"
     },
     {
+        "id": "fa7a8ae2-5cc1-4fe1-95cf-1d8884fcc7a3",
         "item_name": "cake",
-        "item_quantity": 1,
         "item_unit_cost": 5,
         "item_unit_weight": "800g",
         "type": "bakery"
     },
     {
+        "id": "8558ed61-256c-4a3f-93f2-c8b40b15e3a5",
         "item_name": "cheese",
-        "item_quantity": 1,
         "item_unit_cost": 4,
         "item_unit_weight": "400g",
         "type": "dairy"
     },
     {
+        "id": "9f572449-f170-4361-9e58-50a69aa67777",
         "item_name": "milk",
-        "item_quantity": 4,
         "item_unit_cost": 2,
         "item_unit_weight": "200g",
         "type": "dairy"
     },
     {
+        "id": "202859e3-e130-4239-aee0-36c886fd089e",
         "item_name": "roll",
-        "item_quantity": 6,
         "item_unit_cost": 0.2,
         "item_unit_weight": "60g",
         "type": "bakery"
     },
     {
+        "id": "ac670a5c-8cd4-43d3-a4ad-c1c915b84c13",
         "item_name": "butter",
-        "item_quantity": 4,
         "item_unit_cost": 2,
         "item_unit_weight": "200g",
         "type": "dairy"
     },
     {
+        "id": "6381dd9c-ac51-4b5d-88fd-b19201603709",
         "item_name": "apples",
-        "item_quantity": 6,
         "item_unit_cost": 0.4,
         "item_unit_weight": "200g",
         "type": "fruit"
+    },
+    {
+        "id": "be3142a3-1d75-4ea5-bfc3-587b964cf43c",
+        "item_name": "oranges",
+        "item_unit_cost": 0.6,
+        "item_unit_weight": "150g",
+        "type": "fruit"
+    },
+    {
+        "id": "35ef9b96-60b7-42f8-bc43-03e14365365e",
+        "item_name": "pastry",
+        "item_unit_cost": 1,
+        "item_unit_weight": "80g",
+        "type": "bakery"
+    },
+    {
+        "id": "8850fc1e-40c0-448a-85de-a022e9a84041",
+        "item_name": "chocolate",
+        "item_unit_cost": 3.5,
+        "item_unit_weight": "600g",
+        "type": "confectionery"
     }
 ]
