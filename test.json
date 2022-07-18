@@ -75,5 +75,26 @@
         "item_unit_cost": 3.5,
         "item_unit_weight": "600g",
         "type": "confectionery"
+    },
+    {
+        "id": "10fedd06-1ddd-4f23-b923-d420d8a5f523",
+        "item_name": "soap",
+        "item_unit_cost": 1.5,
+        "item_unit_weight": "500g",
+        "type": "toiletries"
+    },
+    {
+        "id": "d757bc49-faaf-4870-ae11-44d541a92762",
+        "item_name": "peas",
+        "item_unit_cost": 3.7,
+        "item_unit_weight": "500g",
+        "type": "frozen"
+    },
+    {
+        "id": "ab104c56-6d51-488c-a180-582a4db5f0a5",
+        "item_name": "home fries",
+        "item_unit_cost": 3,
+        "item_unit_weight": "950g",
+        "type": "frozen"
     }
 ]
